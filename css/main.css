@@ -1,0 +1,44 @@
+body {
+    background-image: url("../media/cumple3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+.countdown {
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 550px;
+    font: 42px Courier;
+    color: #fff;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.bttn-one {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+    font-family: sans-serif;
+    width: 2rem;
+    height: 1rem;
+    font-size: 25px;
+    border-radius: 1.25em;
+    padding: 2em 3.25em 2em 3.25em;
+    background: black;
+    color: white;
+    background-blend-mode: multiply;
+    box-shadow: 0em .25em 2em 0em rgba(253, 151, 255, 1);
+
+}
+
+
+
+.timer {
+    font: 42px Courier;
+    color: #fff;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
